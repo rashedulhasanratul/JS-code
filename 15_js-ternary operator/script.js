@@ -1,7 +1,7 @@
 // --------Ternary Operator-------
 // debugger
-// const userName = 5 > 2 ? 'Hasan' : 'procoder';
-// console.log(userName);
+const userName = 5 > 2 ? 'Hasan' : 'procoder';
+console.log(userName);
 
 // debugger
 const gender = 'F'
