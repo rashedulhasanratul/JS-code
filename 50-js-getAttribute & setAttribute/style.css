@@ -1,0 +1,24 @@
+#asap{
+    border: 4px solid green;
+}
+
+/*  this is called attribute selector */
+[alt="js image"] {
+    border: 4px solid hotpink;
+}
+
+
+p b{
+    /* display: none; */
+    /* visibility: hidden; */
+    /* opacity: 0; */
+}
+
+[developer]{
+    background-color: brown;
+    color: cornsilk;
+}
+
+#heading{
+    color:yellow
+}
