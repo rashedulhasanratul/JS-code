@@ -1,0 +1,23 @@
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.green{
+    background-color: green;
+    width: 400px;
+    height: 300px;
+}
+
+.pink{
+    background-color: pink;
+    width: 300px;
+    height: 200px;
+}
+
+.blue{
+    background-color: rgb(130, 130, 198);
+    width: 200px;
+    height: 100px;
+}
